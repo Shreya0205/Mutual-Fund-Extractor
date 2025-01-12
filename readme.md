@@ -179,11 +179,11 @@ curl --location 'http://127.0.0.1:7000/users/login/' \
 ```
 - Curl Request:
 ```bash
-curl --location 'http://127.0.0.1:7000/funds/mutual-fund-families/' \
+curl --location 'http://127.0.0.1:9000/funds/mutual-fund-families/' \
 --header 'Content-Type: application/json' \
---header 'Authorization: xxx' \
+--header 'Authorization: Bearer xxxx' \
 --data '{
-    "mutual_fund_family": "HDFC Mutual Fund"
+    "mutual_fund_family": "HDFC Mutual Fundgfhgf"
 }'
 ```
 - Response:
@@ -201,7 +201,7 @@ curl --location 'http://127.0.0.1:7000/funds/mutual-fund-families/' \
 - Curl Request:
 ```bash
 curl --location 'http://localhost:7000/funds/mutual-fund-families/' \
---header 'Authorization: xxx'
+--header 'Authorization: Bearer xxxx' \
 ```
 - Response:
   - 200 list of all families 
@@ -230,7 +230,7 @@ mutual_fund_family=HDFC Mutual Fund
 - Curl Request:
 ```bash
 curl --location 'http://localhost:7000/funds/mutual-fund-families/schemes/?mutual_fund_family=HDFC%20Mutual%20Fund' \
---header 'Authorization: xxx'
+--header 'Authorization: Bearer xxxx' \
 ```
 - Response:
   - 200 list of mutual fund schemes.
