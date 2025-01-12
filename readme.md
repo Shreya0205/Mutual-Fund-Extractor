@@ -170,7 +170,8 @@ curl --location 'http://127.0.0.1:7000/users/login/' \
 - Endpoint: /funds/mutual-fund-families
 - Method: POST
 - Description: Register a mutual fund open-ended scheme family
-- Authorization: Use token from login API
+- Authorization: Use access token from login API as bearer token (Authorization tab) in Postman
+- PLEASE NOTE: 
 - Body:
 ```bash
 {
@@ -179,7 +180,7 @@ curl --location 'http://127.0.0.1:7000/users/login/' \
 ```
 - Curl Request:
 ```bash
-curl --location 'http://127.0.0.1:9000/funds/mutual-fund-families/' \
+curl --location 'http://127.0.0.1:7000/funds/mutual-fund-families/' \
 --header 'Content-Type: application/json' \
 --header 'Authorization: Bearer xxxx' \
 --data '{
@@ -197,7 +198,7 @@ curl --location 'http://127.0.0.1:9000/funds/mutual-fund-families/' \
 - Endpoint: /funds/mutual-fund-families
 - Method: GET
 - Description: List registered mutual fund families
-- Authorization: Use token from login API
+- Authorization: Use access token from login API as bearer token (Authorization tab) in Postman
 - Curl Request:
 ```bash
 curl --location 'http://localhost:7000/funds/mutual-fund-families/' \
@@ -222,7 +223,7 @@ curl --location 'http://localhost:7000/funds/mutual-fund-families/' \
 - Description: 
   - List of all open ended scheme for given family
   - The API result will keep on updating every hour with the help of schedular task which runs every hour which fetches latest data of open-ended schemes of registered mutual fund from rapidAPI.
-- Authorization: Use token from login API
+- Authorization: Use access token from login API as bearer token (Authorization tab) in Postman
 - Query params:
 ```bash
 mutual_fund_family=HDFC Mutual Fund
