@@ -127,7 +127,7 @@ curl --location 'http://127.0.0.1:7000/users/register/' \
 --header 'Content-Type: application/json' \
 --data-raw '{
     "username": "shreya",
-    "email": "shreya@shreya.com",
+    "email": "email@gmail.com",
     "password": "password"
 }'
 ```
@@ -143,7 +143,7 @@ curl --location 'http://127.0.0.1:7000/users/register/' \
 - Body:
 ```bash
 {
-    "email": "shreya@shreya.com",
+    "email": "email@gmail.com",
     "password": "password"
 }
 ```
@@ -184,7 +184,7 @@ curl --location 'http://127.0.0.1:7000/funds/mutual-fund-families/' \
 --header 'Content-Type: application/json' \
 --header 'Authorization: Bearer xxxx' \
 --data '{
-    "mutual_fund_family": "HDFC Mutual Fundgfhgf"
+    "mutual_fund_family": "HDFC Mutual Fund"
 }'
 ```
 - Response:
