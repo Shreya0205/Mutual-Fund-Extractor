@@ -1,0 +1,256 @@
+INFO 2025-01-11 10:15:16,663 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 10:15:16,663 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 10:15:16,663 base Scheduler started
+DEBUG 2025-01-11 10:15:16,663 base Looking for jobs to run
+DEBUG 2025-01-11 10:15:16,663 base Next wakeup is due at 2025-01-11 11:15:16.663446+00:00 (in 3599.999470 seconds)
+INFO 2025-01-11 11:03:04,590 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:03:04,590 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:03:04,590 base Scheduler started
+DEBUG 2025-01-11 11:03:04,590 base Looking for jobs to run
+DEBUG 2025-01-11 11:03:04,590 base Next wakeup is due at 2025-01-11 12:03:04.589877+00:00 (in 3599.999417 seconds)
+DEBUG 2025-01-11 11:15:16,535 base Looking for jobs to run
+DEBUG 2025-01-11 11:15:16,542 base Next wakeup is due at 2025-01-11 11:15:16.663446+00:00 (in 0.120815 seconds)
+DEBUG 2025-01-11 11:15:16,669 base Looking for jobs to run
+INFO 2025-01-11 11:15:16,675 base Running job "update_mutual_fund_schemes (trigger: interval[1:00:00], next run at: 2025-01-11 11:15:16 UTC)" (scheduled at 2025-01-11 11:15:16.663446+00:00)
+DEBUG 2025-01-11 11:15:16,676 base Next wakeup is due at 2025-01-11 12:15:16.663446+00:00 (in 3599.986610 seconds)
+INFO 2025-01-11 11:15:18,141 base Job "update_mutual_fund_schemes (trigger: interval[1:00:00], next run at: 2025-01-11 12:15:16 UTC)" executed successfully
+INFO 2025-01-11 11:22:10,902 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:22:10,902 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:22:10,902 base Scheduler started
+DEBUG 2025-01-11 11:22:10,903 base Looking for jobs to run
+DEBUG 2025-01-11 11:22:10,903 base Next wakeup is due at 2025-01-11 12:22:10.902419+00:00 (in 3599.999346 seconds)
+INFO 2025-01-11 11:38:02,572 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:38:02,573 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:38:02,573 base Scheduler started
+DEBUG 2025-01-11 11:38:02,573 base Looking for jobs to run
+DEBUG 2025-01-11 11:38:02,573 base Next wakeup is due at 2025-01-11 12:38:02.572673+00:00 (in 3599.999483 seconds)
+INFO 2025-01-11 11:40:22,031 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:40:22,031 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:40:22,031 base Scheduler started
+DEBUG 2025-01-11 11:40:22,031 base Looking for jobs to run
+DEBUG 2025-01-11 11:40:22,032 base Next wakeup is due at 2025-01-11 12:40:22.031250+00:00 (in 3599.999252 seconds)
+INFO 2025-01-11 11:41:01,755 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:41:01,755 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:41:01,755 base Scheduler started
+DEBUG 2025-01-11 11:41:01,755 base Looking for jobs to run
+DEBUG 2025-01-11 11:41:01,756 base Next wakeup is due at 2025-01-11 12:41:01.755293+00:00 (in 3599.999248 seconds)
+INFO 2025-01-11 11:41:56,553 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:41:56,554 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:41:56,554 base Scheduler started
+DEBUG 2025-01-11 11:41:56,554 base Looking for jobs to run
+DEBUG 2025-01-11 11:41:56,554 base Next wakeup is due at 2025-01-11 12:41:56.553548+00:00 (in 3599.999318 seconds)
+INFO 2025-01-11 11:42:06,662 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:42:06,662 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:42:06,662 base Scheduler started
+DEBUG 2025-01-11 11:42:06,663 base Looking for jobs to run
+DEBUG 2025-01-11 11:42:06,663 base Next wakeup is due at 2025-01-11 12:42:06.662621+00:00 (in 3599.999501 seconds)
+INFO 2025-01-11 11:42:14,861 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:42:14,861 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:42:14,861 base Scheduler started
+DEBUG 2025-01-11 11:42:14,861 base Looking for jobs to run
+DEBUG 2025-01-11 11:42:14,862 base Next wakeup is due at 2025-01-11 12:42:14.861430+00:00 (in 3599.999414 seconds)
+INFO 2025-01-11 11:43:14,396 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:43:14,397 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:43:14,397 base Scheduler started
+DEBUG 2025-01-11 11:43:14,397 base Looking for jobs to run
+DEBUG 2025-01-11 11:43:14,397 base Next wakeup is due at 2025-01-11 12:43:14.396697+00:00 (in 3599.999239 seconds)
+INFO 2025-01-11 11:44:02,481 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:44:02,481 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:44:02,481 base Scheduler started
+DEBUG 2025-01-11 11:44:02,481 base Looking for jobs to run
+DEBUG 2025-01-11 11:44:02,481 base Next wakeup is due at 2025-01-11 12:44:02.481166+00:00 (in 3599.999363 seconds)
+INFO 2025-01-11 11:44:30,542 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:44:30,542 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:44:30,542 base Scheduler started
+DEBUG 2025-01-11 11:44:30,542 base Looking for jobs to run
+DEBUG 2025-01-11 11:44:30,542 base Next wakeup is due at 2025-01-11 12:44:30.541844+00:00 (in 3599.999330 seconds)
+INFO 2025-01-11 11:44:30,749 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:44:30,749 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:44:30,749 base Scheduler started
+DEBUG 2025-01-11 11:44:30,749 base Looking for jobs to run
+DEBUG 2025-01-11 11:44:30,749 base Next wakeup is due at 2025-01-11 12:44:30.749466+00:00 (in 3599.999560 seconds)
+INFO 2025-01-11 11:45:28,408 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:45:28,408 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:45:28,408 base Scheduler started
+DEBUG 2025-01-11 11:45:28,408 base Looking for jobs to run
+DEBUG 2025-01-11 11:45:28,408 base Next wakeup is due at 2025-01-11 12:45:28.408257+00:00 (in 3599.999278 seconds)
+INFO 2025-01-11 11:46:37,430 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:46:37,430 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:46:37,430 base Scheduler started
+DEBUG 2025-01-11 11:46:37,431 base Looking for jobs to run
+DEBUG 2025-01-11 11:46:37,431 base Next wakeup is due at 2025-01-11 12:46:37.430374+00:00 (in 3599.999311 seconds)
+INFO 2025-01-11 11:47:10,128 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:47:10,128 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:47:10,128 base Scheduler started
+DEBUG 2025-01-11 11:47:10,128 base Looking for jobs to run
+DEBUG 2025-01-11 11:47:10,128 base Next wakeup is due at 2025-01-11 12:47:10.127949+00:00 (in 3599.999326 seconds)
+INFO 2025-01-11 11:47:14,021 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:47:14,021 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:47:14,021 base Scheduler started
+DEBUG 2025-01-11 11:47:14,022 base Looking for jobs to run
+DEBUG 2025-01-11 11:47:14,022 base Next wakeup is due at 2025-01-11 12:47:14.021657+00:00 (in 3599.999566 seconds)
+INFO 2025-01-11 11:47:36,138 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:47:36,138 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:47:36,138 base Scheduler started
+DEBUG 2025-01-11 11:47:36,138 base Looking for jobs to run
+DEBUG 2025-01-11 11:47:36,138 base Next wakeup is due at 2025-01-11 12:47:36.138104+00:00 (in 3599.999338 seconds)
+INFO 2025-01-11 11:47:36,335 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:47:36,335 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:47:36,335 base Scheduler started
+DEBUG 2025-01-11 11:47:36,335 base Looking for jobs to run
+DEBUG 2025-01-11 11:47:36,335 base Next wakeup is due at 2025-01-11 12:47:36.334943+00:00 (in 3599.999583 seconds)
+INFO 2025-01-11 11:48:40,747 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:48:40,747 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:48:40,747 base Scheduler started
+DEBUG 2025-01-11 11:48:40,747 base Looking for jobs to run
+DEBUG 2025-01-11 11:48:40,747 base Next wakeup is due at 2025-01-11 12:48:40.747375+00:00 (in 3599.999535 seconds)
+INFO 2025-01-11 11:49:12,151 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 11:49:12,151 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 11:49:12,151 base Scheduler started
+DEBUG 2025-01-11 11:49:12,152 base Looking for jobs to run
+DEBUG 2025-01-11 11:49:12,152 base Next wakeup is due at 2025-01-11 12:49:12.151458+00:00 (in 3599.999323 seconds)
+INFO 2025-01-11 12:03:42,009 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 12:03:42,010 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 12:03:42,010 base Scheduler started
+DEBUG 2025-01-11 12:03:42,010 base Looking for jobs to run
+DEBUG 2025-01-11 12:03:42,010 base Next wakeup is due at 2025-01-11 13:03:42.009665+00:00 (in 3599.999278 seconds)
+INFO 2025-01-11 12:04:51,022 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 12:04:51,022 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 12:04:51,022 base Scheduler started
+DEBUG 2025-01-11 12:04:51,022 base Looking for jobs to run
+DEBUG 2025-01-11 12:04:51,022 base Next wakeup is due at 2025-01-11 13:04:51.021933+00:00 (in 3599.999260 seconds)
+INFO 2025-01-11 12:05:43,044 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 12:05:43,044 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 12:05:43,044 base Scheduler started
+DEBUG 2025-01-11 12:05:43,044 base Looking for jobs to run
+DEBUG 2025-01-11 12:05:43,044 base Next wakeup is due at 2025-01-11 13:05:43.044161+00:00 (in 3599.999197 seconds)
+INFO 2025-01-11 12:06:29,109 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 12:06:29,110 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 12:06:29,110 base Scheduler started
+DEBUG 2025-01-11 12:06:29,110 base Looking for jobs to run
+DEBUG 2025-01-11 12:06:29,110 base Next wakeup is due at 2025-01-11 13:06:29.109666+00:00 (in 3599.999242 seconds)
+INFO 2025-01-11 12:07:22,769 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 12:07:22,770 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 12:07:22,770 base Scheduler started
+DEBUG 2025-01-11 12:07:22,770 base Looking for jobs to run
+DEBUG 2025-01-11 12:07:22,770 base Next wakeup is due at 2025-01-11 13:07:22.769372+00:00 (in 3599.999097 seconds)
+INFO 2025-01-11 12:07:28,093 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 12:07:28,093 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 12:07:28,093 base Scheduler started
+DEBUG 2025-01-11 12:07:28,093 base Looking for jobs to run
+DEBUG 2025-01-11 12:07:28,093 base Next wakeup is due at 2025-01-11 13:07:28.093024+00:00 (in 3599.999242 seconds)
+INFO 2025-01-11 12:07:32,405 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 12:07:32,405 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 12:07:32,405 base Scheduler started
+DEBUG 2025-01-11 12:07:32,405 base Looking for jobs to run
+DEBUG 2025-01-11 12:07:32,405 base Next wakeup is due at 2025-01-11 13:07:32.405017+00:00 (in 3599.999554 seconds)
+INFO 2025-01-11 12:08:42,832 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 12:08:42,833 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 12:08:42,833 base Scheduler started
+DEBUG 2025-01-11 12:08:42,834 base Looking for jobs to run
+DEBUG 2025-01-11 12:08:42,834 base Next wakeup is due at 2025-01-11 13:08:42.832624+00:00 (in 3599.998468 seconds)
+INFO 2025-01-11 12:08:58,299 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 12:08:58,300 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 12:08:58,300 base Scheduler started
+DEBUG 2025-01-11 12:08:58,300 base Looking for jobs to run
+DEBUG 2025-01-11 12:08:58,300 base Next wakeup is due at 2025-01-11 13:08:58.299554+00:00 (in 3599.999242 seconds)
+INFO 2025-01-11 12:08:58,504 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 12:08:58,504 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 12:08:58,504 base Scheduler started
+DEBUG 2025-01-11 12:08:58,505 base Looking for jobs to run
+DEBUG 2025-01-11 12:08:58,505 base Next wakeup is due at 2025-01-11 13:08:58.504573+00:00 (in 3599.999510 seconds)
+INFO 2025-01-11 12:39:45,417 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 12:39:45,417 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 12:39:45,417 base Scheduler started
+DEBUG 2025-01-11 12:39:45,417 base Looking for jobs to run
+DEBUG 2025-01-11 12:39:45,417 base Next wakeup is due at 2025-01-11 13:39:45.417342+00:00 (in 3599.999349 seconds)
+INFO 2025-01-11 12:40:15,942 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-11 12:40:15,942 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-11 12:40:15,942 base Scheduler started
+DEBUG 2025-01-11 12:40:15,942 base Looking for jobs to run
+DEBUG 2025-01-11 12:40:15,942 base Next wakeup is due at 2025-01-11 13:40:15.942443+00:00 (in 3599.999524 seconds)
+INFO 2025-01-12 09:11:01,412 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-12 09:11:01,412 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-12 09:11:01,413 base Scheduler started
+DEBUG 2025-01-12 09:11:01,413 base Looking for jobs to run
+DEBUG 2025-01-12 09:11:01,413 base Next wakeup is due at 2025-01-12 10:11:01.412253+00:00 (in 3599.999096 seconds)
+INFO 2025-01-12 09:11:01,610 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-12 09:11:01,610 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-12 09:11:01,610 base Scheduler started
+DEBUG 2025-01-12 09:11:01,610 base Looking for jobs to run
+DEBUG 2025-01-12 09:11:01,610 base Next wakeup is due at 2025-01-12 10:11:01.610234+00:00 (in 3599.999549 seconds)
+INFO 2025-01-12 09:11:14,018 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-12 09:11:14,018 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-12 09:11:14,018 base Scheduler started
+DEBUG 2025-01-12 09:11:14,018 base Looking for jobs to run
+DEBUG 2025-01-12 09:11:14,018 base Next wakeup is due at 2025-01-12 10:11:14.018211+00:00 (in 3599.999315 seconds)
+INFO 2025-01-12 09:11:17,352 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-12 09:11:17,352 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-12 09:11:17,352 base Scheduler started
+DEBUG 2025-01-12 09:11:17,352 base Looking for jobs to run
+DEBUG 2025-01-12 09:11:17,353 base Next wakeup is due at 2025-01-12 10:11:17.352512+00:00 (in 3599.999497 seconds)
+INFO 2025-01-12 09:11:17,548 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-12 09:11:17,548 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-12 09:11:17,548 base Scheduler started
+DEBUG 2025-01-12 09:11:17,548 base Looking for jobs to run
+DEBUG 2025-01-12 09:11:17,548 base Next wakeup is due at 2025-01-12 10:11:17.547932+00:00 (in 3599.999539 seconds)
+INFO 2025-01-12 09:11:23,221 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-12 09:11:23,222 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-12 09:11:23,222 base Scheduler started
+DEBUG 2025-01-12 09:11:23,222 base Looking for jobs to run
+DEBUG 2025-01-12 09:11:23,222 base Next wakeup is due at 2025-01-12 10:11:23.221729+00:00 (in 3599.999473 seconds)
+INFO 2025-01-12 09:11:23,413 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-12 09:11:23,413 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-12 09:11:23,413 base Scheduler started
+DEBUG 2025-01-12 09:11:23,413 base Looking for jobs to run
+DEBUG 2025-01-12 09:11:23,413 base Next wakeup is due at 2025-01-12 10:11:23.413225+00:00 (in 3599.999548 seconds)
+INFO 2025-01-12 09:14:53,368 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-12 09:14:53,368 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-12 09:14:53,368 base Scheduler started
+DEBUG 2025-01-12 09:14:53,368 base Looking for jobs to run
+DEBUG 2025-01-12 09:14:53,368 base Next wakeup is due at 2025-01-12 10:14:53.368199+00:00 (in 3599.999394 seconds)
+INFO 2025-01-12 09:14:53,567 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-12 09:14:53,567 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-12 09:14:53,567 base Scheduler started
+DEBUG 2025-01-12 09:14:53,567 base Looking for jobs to run
+DEBUG 2025-01-12 09:14:53,567 base Next wakeup is due at 2025-01-12 10:14:53.567182+00:00 (in 3599.999404 seconds)
+INFO 2025-01-12 09:15:20,893 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-12 09:15:20,894 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-12 09:15:20,894 base Scheduler started
+DEBUG 2025-01-12 09:15:20,894 base Looking for jobs to run
+DEBUG 2025-01-12 09:15:20,894 base Next wakeup is due at 2025-01-12 10:15:20.893726+00:00 (in 3599.999547 seconds)
+INFO 2025-01-12 09:15:21,097 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-12 09:15:21,097 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-12 09:15:21,097 base Scheduler started
+DEBUG 2025-01-12 09:15:21,097 base Looking for jobs to run
+DEBUG 2025-01-12 09:15:21,097 base Next wakeup is due at 2025-01-12 10:15:21.096936+00:00 (in 3599.999479 seconds)
+INFO 2025-01-12 09:16:34,271 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-12 09:16:34,272 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-12 09:16:34,272 base Scheduler started
+DEBUG 2025-01-12 09:16:34,272 base Looking for jobs to run
+DEBUG 2025-01-12 09:16:34,272 base Next wakeup is due at 2025-01-12 10:16:34.271404+00:00 (in 3599.999113 seconds)
+INFO 2025-01-12 09:20:03,864 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-12 09:20:03,865 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-12 09:20:03,865 base Scheduler started
+DEBUG 2025-01-12 09:20:03,865 base Looking for jobs to run
+DEBUG 2025-01-12 09:20:03,865 base Next wakeup is due at 2025-01-12 10:20:03.864583+00:00 (in 3599.999243 seconds)
+INFO 2025-01-12 09:20:09,414 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-12 09:20:09,414 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-12 09:20:09,414 base Scheduler started
+DEBUG 2025-01-12 09:20:09,414 base Looking for jobs to run
+DEBUG 2025-01-12 09:20:09,414 base Next wakeup is due at 2025-01-12 10:20:09.414202+00:00 (in 3599.999539 seconds)
+INFO 2025-01-12 09:22:01,476 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-12 09:22:01,478 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-12 09:22:01,478 base Scheduler started
+DEBUG 2025-01-12 09:22:01,478 base Looking for jobs to run
+DEBUG 2025-01-12 09:22:01,478 base Next wakeup is due at 2025-01-12 10:22:01.476251+00:00 (in 3599.997907 seconds)
+INFO 2025-01-12 09:23:17,852 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-12 09:23:17,853 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-12 09:23:17,853 base Scheduler started
+DEBUG 2025-01-12 09:23:17,853 base Looking for jobs to run
+DEBUG 2025-01-12 09:23:17,853 base Next wakeup is due at 2025-01-12 10:23:17.852053+00:00 (in 3599.998716 seconds)
+INFO 2025-01-12 09:32:07,606 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO 2025-01-12 09:32:07,606 base Added job "update_mutual_fund_schemes" to job store "default"
+INFO 2025-01-12 09:32:07,606 base Scheduler started
+DEBUG 2025-01-12 09:32:07,606 base Looking for jobs to run
+DEBUG 2025-01-12 09:32:07,606 base Next wakeup is due at 2025-01-12 10:32:07.605628+00:00 (in 3599.998669 seconds)
