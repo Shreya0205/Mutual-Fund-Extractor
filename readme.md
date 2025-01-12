@@ -64,7 +64,7 @@ cd Mutual-Fund-Extractor
 
 ### 2. Create a virtual environment (optional but recommended)
 ```bash
-python3 -m <env_name> 
+python3 -m venv <env_name> 
 source <env_name>/bin/activate  # On Windows use .venv\Scripts\activate
 ```
 
