@@ -152,7 +152,7 @@ curl --location 'http://127.0.0.1:7000/users/register/' \
 curl --location 'http://127.0.0.1:7000/users/login/' \
 --header 'Content-Type: application/json' \
 --data-raw '{
-    "email": "shreya@shreya.com",
+    "email": "email@gmail.com",
     "password": "password"
 }'
 ```
@@ -160,8 +160,8 @@ curl --location 'http://127.0.0.1:7000/users/login/' \
   - 200 Created on successful login
   ```bash
   {
-    "refresh": "xxx"
-    "access": "xxx
+    "refresh": "xxxx"
+    "access": "xxxx"
   }
   ```
   - 401 Invalid credentials, when user is not registered.
@@ -238,6 +238,8 @@ curl --location 'http://localhost:7000/funds/mutual-fund-families/schemes/?mutua
   ```bash
   [
     {
+        "created_at": "2025-01-12T10:00:14.118030Z",
+        "updated_at": "2025-01-12T10:00:14.118036Z",
         "scheme_code": "128628",
         "scheme_name": "HDFC Banking and PSU Debt Fund - Growth Option",
         "net_asset_value": 22.0467,
@@ -262,3 +264,12 @@ In this project, APScheduler is used to manage periodic tasks, specifically for 
 - Fetching Data: The function fetches the latest mutual fund scheme data from rapid API using the MutualFundService.fetch_open_ended_schemes_for_family() method.
 - Saving to Database: If the data is successfully retrieved, it is saved to the database using the MutualFundService.save_schemes_to_db() method.
 - Logging: Detailed logs are maintained for every successful update or failure in mutual_fund/logs/scheduler_logs.log, which can be monitored to ensure the system is working as expected.
+- Example logs:
+  ```bash
+  DEBUG 2025-01-12 09:23:17,853 base Next wakeup is due at 2025-01-12 10:23:17.852053+00:00 (in 3599.998716 seconds)
+  INFO 2025-01-12 09:32:07,606 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
+  INFO 2025-01-12 09:32:07,606 base Added job "update_mutual_fund_schemes" to job store "default"
+  INFO 2025-01-12 09:32:07,606 base Scheduler started
+  DEBUG 2025-01-12 09:32:07,606 base Looking for jobs to run
+  DEBUG 2025-01-12 09:32:07,606 base Next wakeup is due at 2025-01-12 10:32:07.605628+00:00 (in 3599.998669 seconds)
+  ```
