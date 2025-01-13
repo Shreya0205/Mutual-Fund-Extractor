@@ -171,7 +171,6 @@ curl --location 'http://127.0.0.1:7000/users/login/' \
 - Method: POST
 - Description: Register a mutual fund open-ended scheme family
 - Authorization: Use access token from login API as bearer token (Authorization tab) in Postman
-- PLEASE NOTE: 
 - Body:
 ```bash
 {
