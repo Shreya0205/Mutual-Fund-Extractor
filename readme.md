@@ -222,6 +222,8 @@ curl --location 'http://localhost:7000/funds/mutual-fund-families/' \
 - Description: 
   - List of all open ended scheme for given family
   - The API result will keep on updating every hour with the help of schedular task which runs every hour which fetches latest data of open-ended schemes of registered mutual fund from rapidAPI.
+  - The updated_at field in the response will be get updated with every cron run.
+  - The logs of the schedular task can be accessed from mutual_fund/logs/scheduler_logs.log.
 - Authorization: Use access token from login API as bearer token (Authorization tab) in Postman
 - Query params:
 ```bash
