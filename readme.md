@@ -266,10 +266,10 @@ In this project, APScheduler is used to manage periodic tasks, specifically for 
 - Logging: Detailed logs are maintained for every successful update or failure in mutual_fund/logs/scheduler_logs.log, which can be monitored to ensure the system is working as expected.
 - Example logs:
   ```bash
-  DEBUG 2025-01-12 09:23:17,853 base Next wakeup is due at 2025-01-12 10:23:17.852053+00:00 (in 3599.998716 seconds)
-  INFO 2025-01-12 09:32:07,606 base Adding job tentatively -- it will be properly scheduled when the scheduler starts
-  INFO 2025-01-12 09:32:07,606 base Added job "update_mutual_fund_schemes" to job store "default"
-  INFO 2025-01-12 09:32:07,606 base Scheduler started
-  DEBUG 2025-01-12 09:32:07,606 base Looking for jobs to run
-  DEBUG 2025-01-12 09:32:07,606 base Next wakeup is due at 2025-01-12 10:32:07.605628+00:00 (in 3599.998669 seconds)
+DEBUG 2025-01-12 19:25:47,369 base Next wakeup is due at 2025-01-12 19:25:47.533384+00:00 (in 0.164351 seconds)
+DEBUG 2025-01-12 19:25:47,537 base Looking for jobs to run
+INFO 2025-01-12 19:25:47,540 base Running job "update_mutual_fund_schemes (trigger: interval[1:00:00], next run at: 2025-01-12 19:25:47 UTC)" (scheduled at 2025-01-12 19:25:47.533384+00:00)
+DEBUG 2025-01-12 19:25:47,540 base Next wakeup is due at 2025-01-12 20:25:47.533384+00:00 (in 3599.992479 seconds)
+INFO 2025-01-12 19:25:48,291 base Job "update_mutual_fund_schemes (trigger: interval[1:00:00], next run at: 2025-01-12 20:25:47 UTC)" executed successfully
+INFO 2025-01-12 19:25:48,454 base Job "update_mutual_fund_schemes (trigger: interval[1:00:00], next run at: 2025-01-12 20:25:47 UTC)" executed successfully
   ```
